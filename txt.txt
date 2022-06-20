@@ -1,0 +1,7 @@
+to create .db file
+
+
+python
+from app import db
+>>> db.create_all()      now create todo.db
+exit()
